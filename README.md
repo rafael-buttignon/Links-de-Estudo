@@ -1,8 +1,8 @@
 # 💻 Estudos de tecnologia
 
 ## 📜 Cursos de tecnologia com certificado
-* Geral: https://digitalinnovation.one
-* Geral: https://www.schoolofnet.com/cursos/gratuitos
+- Geral: https://digitalinnovation.one
+- Geral: https://www.schoolofnet.com/cursos/gratuitos
 - Geral: https://4linux.com.br/cursos-gratis
 - Geral: https://www.sololearn.com
 - Java,angular, cordova..: https://loiane.training
