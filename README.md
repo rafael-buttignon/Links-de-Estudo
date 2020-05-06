@@ -8,8 +8,8 @@
 * Java,angular, cordova..: https://loiane.training
 * Python: https://solyd.com.br/treinamentos/python-basico
 * Python:
- * > Parte 1: https://www.coursera.org/learn/ciencia-computacao-python-conceitos
- * > Parte 2: https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2
+ > Parte 1: https://www.coursera.org/learn/ciencia-computacao-python-conceitos <br>
+ > Parte 2: https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2
 
 ## 🌐 Cursos de tecnologia e informática
 * Geral: https://www.youtube.com/user/cursosemvideo
