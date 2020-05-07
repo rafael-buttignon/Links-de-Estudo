@@ -5,7 +5,7 @@
 - Geral: https://www.schoolofnet.com/cursos/gratuitos
 - Geral: https://4linux.com.br/cursos-gratis
 - Geral: https://www.sololearn.com
-- Java,angular, cordova..: https://loiane.training
+- Java, angular, cordova..: https://loiane.training
 - Python: https://solyd.com.br/treinamentos/python-basico
 - Python:
   - Parte 1: https://www.coursera.org/learn/ciencia-computacao-python-conceitos
@@ -43,8 +43,19 @@
 ## 💬 Cursos de idiomas
 * https://pt.duolingo.com
 
-<br><hr><br>
+<hr>
 
 ## ⚙ Ferramentas
 
-...
+- Simulação eletrônica e impressão 3d: https://www.tinkercad.com
+- IDEs de programação em nuvem:
+  - https://repl.it
+  - https://www.gitpod.io
+  - https://ideone.com
+- Remover fundo de imagens: https://www.remove.bg
+- Remover fundo de vídeos e GIFs!: https://www.unscreen.com/
+- Editor de video para celular: https://play.google.com/store/apps/details?id=com.camerasideas.trimmer
+- Alternativas open source a softwares: https://opensource.builders/
+- Criar diagramas que parecem que foram feitos "na mão": https://excalidraw.com/
+- The Zen of Python (Lista com 19 princípios para escrever bons códigos na linguagem)
+  - https://pythonacademy.com.br/zen-of-python
