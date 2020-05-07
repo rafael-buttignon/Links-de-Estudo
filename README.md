@@ -1,6 +1,6 @@
-# 💻 Estudos de tecnologia
+# 📜 Estudos de tecnologia
 
-## 📜 Cursos de tecnologia com certificado
+## Cursos de tecnologia com certificado
 
 - [💻 Digital Innovation One](https://digitalinnovation.one) - Geral
 - [💻 School of net](https://www.schoolofnet.com/cursos/gratuitos) - Geral
@@ -11,7 +11,7 @@
 - 🐍 Coursera - Python
   - [Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos), [Parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2)
 
-## 🌐 Cursos de tecnologia e informática
+## Cursos de tecnologia e informática
 - [Curso em vídeo](https://www.youtube.com/user/cursosemvideo) - Geral 💻
 - [Codando.org](https://codando.org/material-gratuito/) - Geral 💻
 - [Curso em vídeo](https://www.youtube.com/user/cursosemvideo) - Python 🐍
