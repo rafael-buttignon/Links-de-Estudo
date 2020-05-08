@@ -39,13 +39,13 @@
 ## ⚙ Ferramentas
 
 - Simulação eletrônica e impressão 3d: https://www.tinkercad.com
-- IDEs de programação em nuvem:
+- ☁ IDEs de programação em nuvem:
   - https://repl.it
   - https://www.gitpod.io
   - https://ideone.com
 - Remover fundo de imagens: https://www.remove.bg
 - Remover fundo de vídeos e GIFs!: https://www.unscreen.com/
 - Editor de video para celular: https://play.google.com/store/apps/details?id=com.camerasideas.trimmer
-- [Opensource builders](https://opensource.builders/) - Alternativas open source a softwares
-- [Excalidraw](https://excalidraw.com/) - Criar diagramas que parecem que foram feitos "na mão"
+- [📝 Opensource builders](https://opensource.builders/) - Alternativas open source a softwares
+- [✏ Excalidraw](https://excalidraw.com/) - Criar diagramas que parecem que foram feitos "na mão"
 - [🐍 The Zen of Python](https://pythonacademy.com.br/zen-of-python) - Lista com 19 princípios para escrever bons códigos na linguagem
