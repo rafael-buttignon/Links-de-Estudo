@@ -7,7 +7,7 @@
 - [💻 4Linux](https://4linux.com.br/cursos-gratis) - Geral
 - [💻 Sololearn](https://www.sololearn.com) - Geral(em inglês)
 - [☕ Loiane training](https://loiane.training) - Java, angular, cordova...
-- [🐍Solyd](https://solyd.com.br/treinamentos/python-basico) - Python Básico
+- [🐍 Solyd](https://solyd.com.br/treinamentos/python-basico) - Python Básico
 - 🐍 Coursera - Python
   - [Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos), [Parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2)
 
@@ -37,14 +37,15 @@
 
 ## ⚙ Ferramentas
 
-- Simulação eletrônica e impressão 3d: https://www.tinkercad.com
 - ☁ IDEs de programação em nuvem:
   - https://repl.it
   - https://www.gitpod.io
   - https://ideone.com
-- Remover fundo de imagens: https://www.remove.bg
-- Remover fundo de vídeos e GIFs!: https://www.unscreen.com/
-- Editor de video para celular: https://play.google.com/store/apps/details?id=com.camerasideas.trimmer
+- [☁ Notion](https://www.notion.so) - Anotações em nuvem
+- [🖼 Remove.bg](https://www.remove.bg) - Remover fundo de imagens
+- [🖼 Unscreen](https://www.unscreen.com/) - Remover fundo de vídeos e GIFs
 - [📝 Opensource builders](https://opensource.builders/) - Alternativas open source a softwares
 - [✏ Excalidraw](https://excalidraw.com/) - Criar diagramas que parecem que foram feitos "na mão"
 - [🐍 The Zen of Python](https://pythonacademy.com.br/zen-of-python) - Lista com 19 princípios para escrever bons códigos na linguagem
+- Editor de video para celular: https://play.google.com/store/apps/details?id=com.camerasideas.trimmer
+- Simulação eletrônica e impressão 3d: https://www.tinkercad.com
