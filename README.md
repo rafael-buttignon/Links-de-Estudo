@@ -47,5 +47,7 @@
 - [📝 Opensource builders](https://opensource.builders/) - Alternativas open source a softwares
 - [✏ Excalidraw](https://excalidraw.com/) - Criar diagramas que parecem que foram feitos "na mão"
 - [🐍 The Zen of Python](https://pythonacademy.com.br/zen-of-python) - Lista com 19 princípios para escrever bons códigos na linguagem
-- Editor de video para celular: https://play.google.com/store/apps/details?id=com.camerasideas.trimmer
-- Simulação eletrônica e impressão 3d: https://www.tinkercad.com
+- [YouCut](https://play.google.com/store/apps/details?id=com.camerasideas.trimmer) - Editor de video profissional para celular
+- [Tinkercad](https://www.tinkercad.com) - Simulação eletrônica e impressão 3d
+- [1loc: one line of code](https://1loc.dev/) - Comandos javaScript em uma única linha(em inglês)
+
