@@ -24,17 +24,11 @@
 - [🌐 Minicurso web design responsivo](https://www.youtube.com/playlist?list=PLZTjHbp2Y782r6cqjm5JU91_sgPxM19k-) - HTML5 e CSS3
 - [🐸 Hashtag treinamentos](http://pages.hashtagtreinamentos.com/inscricoes-mes2-concurso?origemref=aquinogui@hotmail.com) - Curso avançado de Excel, aberto em períodos limitados
 - [🔐 Shellter Labs](https://shellterlabs.com/pt) - Introdução a segurança da informação ofensiva
+- [🔩 Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw) - Internet das coisas, Arduino, RaspBerry...
+- [⚙ Manual Maker](https://www.youtube.com/playlist?list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNpv) - Aprenda a mexer em ferramentas, construir circuitos eletrônicos, montar projetos...
+- [💬 Duolingo](https://pt.duolingo.com) - Cursos de idiomas
 
-## 🔩 Internet das coisas, Arduino, RaspBerry
-* https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw
-
-## 💬 Cursos de idiomas
-* https://pt.duolingo.com
-
-<hr>
-
-## ⚙ Ferramentas
-
+## Ferramentas
 - ☁ IDEs de programação em nuvem:
   - https://repl.it
   - https://www.gitpod.io
