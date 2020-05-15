@@ -23,9 +23,7 @@
 - [💡 Desenvolvimento de jogos](https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL) - Javascript, ReactJs e NodeJs 
 - [🌐 Minicurso web design responsivo](https://www.youtube.com/playlist?list=PLZTjHbp2Y782r6cqjm5JU91_sgPxM19k-) - HTML5 e CSS3
 - [🐸 Hashtag treinamentos](http://pages.hashtagtreinamentos.com/inscricoes-mes2-concurso?origemref=aquinogui@hotmail.com) - Curso avançado de Excel, aberto em períodos limitados
-
-## 🔐 Introdução a segurança da informação
-* https://shellterlabs.com/pt
+- [🔐 Shellter Labs](https://shellterlabs.com/pt) - Introdução a segurança da informação ofensiva
 
 ## 🔩 Internet das coisas, Arduino, RaspBerry
 * https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw
