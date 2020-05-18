@@ -29,9 +29,11 @@
 - [💬 Duolingo](https://pt.duolingo.com) - Cursos de idiomas
 
 ## Ferramentas
-- ☁ IDEs de programação em nuvem:
-  - https://repl.it
+- ☁ Programação em nuvem:
   - https://www.gitpod.io
+  - https://codesandbox.io
+  - https://codepen.io
+  - https://repl.it
   - https://ideone.com
 - [☁ Notion](https://www.notion.so) - Anotações em nuvem
 - [🖼 Remove.bg](https://www.remove.bg) - Remover fundo de imagens
