@@ -5,6 +5,7 @@
 - [💻 Digital Innovation One](https://digitalinnovation.one) - Geral
 - [💻 School of net](https://www.schoolofnet.com/cursos/gratuitos) - Geral
 - [💻 4Linux](https://4linux.com.br/cursos-gratis) - Geral
+- [💻 Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos) - Geral
 - [💻 Sololearn](https://www.sololearn.com) - Geral(em inglês)
 - [☕ Loiane training](https://loiane.training) - Java, angular, cordova...
 - [🐍 Solyd](https://solyd.com.br/treinamentos/python-basico) - Python Básico
