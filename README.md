@@ -23,6 +23,7 @@
 - [💡 Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA) - Javascript, ReactJs e NodeJs
 - [💡 Desenvolvimento de jogos](https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL) - Javascript, ReactJs e NodeJs 
 - [💡 Node.js para Iniciantes](https://treinamento.nodebr.org)
+- [💎 Onebitcode](https://onebitcode.com/cursos) - Ruby, Rails, Vue
 - [🌐 Minicurso web design responsivo](https://www.youtube.com/playlist?list=PLZTjHbp2Y782r6cqjm5JU91_sgPxM19k-) - HTML5 e CSS3
 - [🌐 Cursos de desenvolvimento web](https://classes.vedovelli.com.br/courses) - Curso de Svelte e Vue.js 3
 - [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) - Ebook
@@ -54,3 +55,4 @@
 - [💡 Como hospedar um site feito em React usando o Github](https://medium.com/@rogeriomattos38/como-hospedar-um-site-feito-em-react-usando-o-github-5e226e2b4cdc)
 - [💡 Como implementar o Algoritmo do Fogo do DOOM](https://medium.com/@FilipeDeschamps/tutorial-completo-de-como-implementar-o-algoritmo-do-fogo-do-doom-41d38ac39fa7)
 - [📹 Lista de streamers brasileiros de programação](http://gabsferreira.com/mais-de-30-streamers-brasileiros-de-programacao-data-science-e-tecnologia-em-geral/)
+- [🌐 História do CSS](https://www.felipefialho.com/blog/do-sass-e-bem-ao-css-in-js-a-evolucao-do-css-ao-longo-da-historia/)
