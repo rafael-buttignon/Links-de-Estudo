@@ -48,3 +48,5 @@
 - [⚙ Tinkercad](https://www.tinkercad.com) - Simulação eletrônica e impressão 3d
 - [💡 1loc: one line of code](https://1loc.dev/) - Comandos javaScript em uma única linha(em inglês)
 
+## Artigos
+- [📱 Enviar mensagem para WhatsApp com React Native](https://medium.com/@miroldols/enviar-mensagem-para-whatsapp-com-react-native-70239bb65495)
