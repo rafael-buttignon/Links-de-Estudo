@@ -22,6 +22,8 @@
 - [💡 Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA) - Javascript, ReactJs e NodeJs
 - [💡 Desenvolvimento de jogos](https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL) - Javascript, ReactJs e NodeJs 
 - [🌐 Minicurso web design responsivo](https://www.youtube.com/playlist?list=PLZTjHbp2Y782r6cqjm5JU91_sgPxM19k-) - HTML5 e CSS3
+- [🌐 Cursos de desenvolvimento web](https://classes.vedovelli.com.br/courses) - Curso de Svelte e Vue.js 3
+- [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) - Ebook
 - [🐸 Hashtag treinamentos](http://pages.hashtagtreinamentos.com/inscricoes-mes2-concurso?origemref=aquinogui@hotmail.com) - Curso avançado de Excel, aberto em períodos limitados
 - [🔐 Shellter Labs](https://shellterlabs.com/pt) - Introdução a segurança da informação ofensiva
 - [🔩 Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw) - Internet das coisas, Arduino, RaspBerry...
