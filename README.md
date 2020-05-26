@@ -22,6 +22,7 @@
 - [💡 Rocketseat](https://rocketseat.com.br) - Javascript, ReactJs e NodeJs
 - [💡 Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA) - Javascript, ReactJs e NodeJs
 - [💡 Desenvolvimento de jogos](https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL) - Javascript, ReactJs e NodeJs 
+- [💡 Node.js para Iniciantes](https://treinamento.nodebr.org)
 - [🌐 Minicurso web design responsivo](https://www.youtube.com/playlist?list=PLZTjHbp2Y782r6cqjm5JU91_sgPxM19k-) - HTML5 e CSS3
 - [🌐 Cursos de desenvolvimento web](https://classes.vedovelli.com.br/courses) - Curso de Svelte e Vue.js 3
 - [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) - Ebook
@@ -50,3 +51,5 @@
 
 ## Artigos
 - [📱 Enviar mensagem para WhatsApp com React Native](https://medium.com/@miroldols/enviar-mensagem-para-whatsapp-com-react-native-70239bb65495)
+- [💡 Como hospedar um site feito em React usando o Github](https://medium.com/@rogeriomattos38/como-hospedar-um-site-feito-em-react-usando-o-github-5e226e2b4cdc)
+- [📹 Lista de streamers brasileiros de programação](http://gabsferreira.com/mais-de-30-streamers-brasileiros-de-programacao-data-science-e-tecnologia-em-geral/)
